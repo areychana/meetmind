@@ -34,17 +34,6 @@ MeetMind is your intelligent meeting assistant—silently monitoring while you a
 
 ---
 
-## Screenshots
-
-The interface features:
-- **Landing page** — Simple, minimal entry point with session controls
-- **Live session** — Active conversation stream with real-time updates
-- **Voice chat** — Dual transcript showing your questions and AI responses
-- **Screen sharing** — Share your screen for visual context awareness
-- **Fluid canvas background** — Responsive, elegant design with cursor effects
-
----
-
 ## Architecture
 
 ```
