@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshots/screenshot_hero_offline.png" alt="MeetMind" width="100%"/>
+  <img src="screenshots/logo.png" alt="MeetMind Logo" width="150"/>
   <br/><br/>
   <h1>MeetMind</h1>
   <p><strong>A real-time AI meeting co-pilot powered by Gemini Live API</strong></p>
@@ -169,6 +169,54 @@ meetmind/
 6. **End session** — Click "End Session" when done
 
 > **Tip:** For best results, keep your microphone close and whisper clearly to avoid meeting noise interference.
+
+---
+
+## Screenshots
+
+See MeetMind in action with these use-case examples:
+
+### 1. Landing Page
+The clean, intuitive homepage with the cream theme before starting a session.
+
+<div align="center">
+  <img src="screenshots/landing page.png" alt="MeetMind Landing Page" width="80%"/>
+</div>
+
+### 2. Live Session Active
+After clicking "Start Session" — shows the "Connected" status pill and "Listening..." with animated wave bars.
+
+<div align="center">
+  <img src="screenshots/live session active.png" alt="Live Session Active" width="80%"/>
+</div>
+
+### 3. Voice Transcripts Working
+Real-time transcription in action — green user bubble (🎤 what you said) followed by the agent's response below.
+
+<div align="center">
+  <img src="screenshots/voice transcript working.png" alt="Voice Transcript Working" width="80%"/>
+</div>
+
+### 4. Screen Share in Action
+Share your GitHub profile and ask "What do you see?" — MeetMind correctly describes your screen in real time.
+
+<div align="center">
+  <img src="screenshots/share screen in action.png" alt="Screen Share in Action" width="80%"/>
+</div>
+
+### 5. Typing a Question
+Silent mode at work — type your question with the ✏️ user bubble visible, followed by the AI's instant response.
+
+<div align="center">
+  <img src="screenshots/typing a ques.png" alt="Typing a Question" width="80%"/>
+</div>
+
+### 6. Thinking State
+Catch the real-time feedback — "MeetMind is thinking..." with animated dots showing active processing.
+
+<div align="center">
+  <img src="screenshots/github screenshare.png" alt="Thinking State" width="80%"/>
+</div>
 
 ---
 
