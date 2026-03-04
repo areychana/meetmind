@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshots/logo.png" alt="MeetMind Logo" width="80"/>
+  <img src="screenshots/logo.png" alt="MeetMind Logo" width="80" height="80"/>
   <br/>
   <h1>MeetMind</h1>
   <p><strong>A real-time AI meeting co-pilot powered by Gemini Live API</strong></p>
