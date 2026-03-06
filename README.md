@@ -32,6 +32,9 @@ MeetMind sits in a browser tab while you attend meetings. Whisper a question, ge
 - Live conversation transcript
 
 ---
+## Live demo: 
+
+https://meetmind-671715875630.us-central1.run.app
 
 ## Screenshots
 
